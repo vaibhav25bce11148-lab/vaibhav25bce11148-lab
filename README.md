@@ -26,10 +26,18 @@ I am a dedicated student deeply immersed in the world of technology. Whether it'
 
 -----
 
+## 🛡️ Digital Ambassador Initiatives
+
+As part of my commitment to promoting tech awareness and cybersecurity among my peers, I've designed a quick **Digital Literacy Awareness Quiz**. If you are a batchmate, test your knowledge on phishing, digital footprints, and online security!
+
+👉 **[Take the Digital Literacy Quiz Here]((https://forms.gle/qsJuK1z6yXSxyzs89))**
+
+-----
+
 ## 🤝 Connect with Me
 
 I'm always open to collaborating on open-source projects or just chatting about the latest trends in tech.
 
   * **LinkedIn:** [www.linkedin.com/in/vaibhav-bhimte-01a28b3bb]
-
+    
 > "The only way to do great work is to love what you do." – *Steve Jobs*
