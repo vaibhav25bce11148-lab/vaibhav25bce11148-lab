@@ -30,7 +30,8 @@ I am a dedicated student deeply immersed in the world of technology. Whether it'
 
 As part of my commitment to promoting tech awareness and cybersecurity among my peers, I've designed a quick **Digital Literacy Awareness Quiz**. If you are a batchmate, test your knowledge on phishing, digital footprints, and online security!
 
-👉 **[Take the Digital Literacy Quiz Here]([(https://forms.gle/qsJuK1z6yXSxyzs89)])**
+👉 **[Take the Digital Literacy Quiz Here]
+([https://forms.gle/qsJuK1z6yXSxyzs89])**
 
 -----
 
