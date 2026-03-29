@@ -31,7 +31,5 @@ I am a dedicated student deeply immersed in the world of technology. Whether it'
 I'm always open to collaborating on open-source projects or just chatting about the latest trends in tech.
 
   * **LinkedIn:** [www.linkedin.com/in/vaibhav-bhimte-01a28b3bb]
-  * **Kaggle:** [@YourHandle]
-  * **Portfolio:** [yourwebsite.com]
 
 > "The only way to do great work is to love what you do." – *Steve Jobs*
